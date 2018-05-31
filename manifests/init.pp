@@ -5,7 +5,7 @@
 # @example
 #   include resolver
 class resolver (
-  $nameservers = "['','','']",
+  $nameservers = ["",""],
 ) {
   file { '/etc/resolv.conf':
     ensure  => file,
