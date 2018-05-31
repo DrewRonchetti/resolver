@@ -1,2 +1,14 @@
 
 \.DS_Store
+
+\.idea/\.rakeTasks
+
+\.idea/misc\.xml
+
+\.idea/modules\.xml
+
+\.idea/resolver\.iml
+
+\.idea/vcs\.xml
+
+\.idea/workspace\.xml
